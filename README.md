@@ -1,6 +1,6 @@
 # Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 29-11-2023
+### DATE: 13-12-2023
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -124,7 +124,7 @@ After undergoing heat treatment, the parts are considered the final product. The
 
 Further heat treatment of the final product is typically carried out only if there is a specific need or desired outcome. The decision to perform additional heat treatment depends on factors such as the material composition, desired properties, and the intended application of the product. If further heat treatment is required, it would involve subjecting the final product to a controlled heating process using specialized equipment or methods. This subsequent heat treatment may aim to refine or adjust the material's properties, improve structural integrity, relieve residual stresses, or achieve specific metallurgical transformations. The specific temperature, duration, and conditions of the further heat treatment would be determined based on the desired outcome and the material being treated.
 ### Name:T.Thrishendra
-### Register Number:23003501
+### Register Number:212223230227
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
